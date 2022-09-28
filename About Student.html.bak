@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+		<head>
+				<meta charset="UTF-8">
+				<meta name="description" content="Laclede Cab Home Page">
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				
+				<link href="https://fonts.googleapis.com/css?family=Montserrat: 400,800" rel="stylesheet">
+				<link rel="stylesheet" type="text/css" href="style.css"/>
+				<link rel="stylesheet" type="text/css" href="FontAwesome/css/all.min.css"/>
+				<link rel="shortcut icon" type="x-icon" href="crnilogo.ico">
+				
+				<title> About Student | St. Louis Taxi </title>
+				
+		</head>
+ 
+	<body>
+		<div class="header">
+		
+			<div class="inner_header">
+			
+				<div class="logo_container">
+					<h1>Lac<span>lede</span> Cab</h1>
+				</div>
+				
+				<ul class="navigation">
+					<a href="Index.html"> <i class="fas fa-home"> </i> <li> Home </li></a>
+					<a href="Advertising.html"> <i class="fas fa-money-bill-wave"></i> <li> Advertising </li> </a>
+					<a href="Rates.html"> <i class="fas fa-taxi"> </i> <li> Rates </li> </a>
+					<a href="About.html"> <i class="fas fa-users"> </i> <li> About </li> </a>
+					<a href="Contact.html"> <i class="fas fa-phone-alt"></i> </i><li> Contact </li> </a>
+				</ul>
+				
+			</div>
+			
+		</div>
+		
+	<div id="zaglavlje">
+	
+				<div class="indextext_image">
+
+						<img class="indextext_img"src="images/nyctaxi.jpg" alt="slika"> 						
+
+						<div class="indextext_overlay">
+						
+								<img class="portrait" src="images/filip.jpg" alt="portrait"> 
+								
+							<div class="indextext_title">Made by Filip Vuković <br><br> </div>
+							
+						
+							<p class="indextext_description"> 
+								26 year old student of ICT College of Applied Studies <br> Telecommunications | Systems engineering <br><br>
+								Mostly interested in: <br>
+								Keeping up with the latest developments in technology <br>
+								Designing and development websites <br>
+								Computer programming <br>
+								Learning new skills								
+				
+							</p>
+						</div>
+				</div>
+						
+		
+		<div class="footer">
+			
+				<div class="inner_footer">
+					<div class="footer_logo">
+						<img src="images/crnilogo.jfif" alt="Logo">
+					</div>
+					
+					<div class="footer_second">
+						 <h1> Need help? </h1>
+						 <a href="Privacy Policy.html"> Privacy policy </a> <br>
+						 <a href="About Student.html"> About Student </a> <br>
+						
+					</div>
+							<div class="footer_second">
+								<h1> Follow us </h1>
+								
+								<li><a href="https://www.instagram.com/lacledecab/" target="_blank"> <i class="fab fa-instagram"> </i> </a> </li> 
+								<li><a href="https://twitter.com/lacledecab?lang=en" target="_blank"> <i class="fab fa-twitter"> </i> </a> </li>
+								<li><a href="https://www.facebook.com/LacledeCab" target="_blank"> <i class="fab fa-facebook"> </i> </a> </li>
+								 							
+							</div>
+							
+							<div class="footer_span">		
+							
+								<span>
+									Laclede Cab Company <br>
+									600 S. Vandeventer Ave. <br>
+									St. Louis, MO 63110 <br>
+								</span>  
+									
+							</div>
+						
+				</div>
+		</div>
+		
+	</div>
+	
+
+	</body>
+</html>

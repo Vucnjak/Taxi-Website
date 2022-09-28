@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<html>
+		<head>
+				<meta charset="UTF-8">
+				<meta name="description" content="History of our company, and what made us what we are today ">
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				
+				<link href="https://fonts.googleapis.com/css?family=Montserrat: 400,800" rel="stylesheet">
+				<link rel="stylesheet" type="text/css" href="style.css"/>
+				<link rel="stylesheet" type="text/css" href="FontAwesome/css/all.min.css"/>
+				<link rel="shortcut icon" type="x-icon" href="crnilogo.ico">
+				
+				<title> About | St. Louis Taxi </title>
+				
+    <!-- Dimenzije za ikonice su 16x16, 32x32, 64x64, 128x128 i 256x256-->
+	
+		</head>
+ 
+	<body>
+		<div class="header">
+		
+			<div class="inner_header">
+			
+				<div class="logo_container">
+					<h1>Lac<span>lede</span> Cab</h1>
+				</div>
+				
+				<ul class="navigation">
+					<a href="Index.html"> <i class="fas fa-home"> </i> <li> Home </li></a>
+					<a href="Advertising.html"> <i class="fas fa-money-bill-wave"></i> <li> Advertising  </li> </a>
+					<a href="Rates.html"> <i class="fas fa-taxi"> </i> <li> Rates </li> </a>
+					<a href="About.html"> <i class="fas fa-users"> </i> <li> About </li> </a>
+					<a href="Contact.html"> <i class="fas fa-phone-alt"></i> </i><li> Contact </li> </a>
+				</ul>
+				
+			</div>
+		</div>
+		
+	<div id="zaglavlje">
+	
+					<div class="indextext_image">
+
+						<img class="indextext_img"src="images/nyctaxi.jpg" alt="slika"> 						
+
+						<div class="indextext_overlay">
+							<div class="indextext_title"> History <br><br> </div>
+							
+								<ul>
+									<li> In the fall of 1946, less than a year after the close of World War II, Laclede Cab Company first began operating on the streets of St. Louis with 75 permits granted by the city of St. Louis.  <br>
+									Headquarters for our startup operation was located at 923 North Seventh Street downtown – about one block north from the future site of the Edward Jones Dome. <br>
+									Many of our senior customers may remember those days, riding in a distinctive Laclede Cab red and black Lasalle – or dialing “OL2-3456” to reach us from direct lines located throughout the city. </li> <br><br>
+									
+									<li>Laclede Cab quickly established itself as an industry leader and innovator with uniformed drivers, early package pickups and a computerized charge system. <br>
+									Then in September 1947, just one year after beginning service, Laclede Cab purchased the first 2-way radio system in metropolitan St. Louis. </li> <br><br>
+									
+									<li>Less than a decade later, 1955 brought a period of growth and expansion for Laclede Cab with the purchase of 15 “Sparky’s” and 20 “RedTop” cabs. <br>
+									And in 1975, Laclede Cab purchased the Black and White Cab Company, becoming the metro St. Louis’ largest cab company and servicing well over one million calls per year.</li> <br><br>
+									
+									<li>In 1996 Laclede Cab came under new ownership and began another period of growth – and reorganization. <br>
+									While our distinctive red color was retained, gone were the black fenders of the past and the entire vehicles became bright, solid red with white lettering. <br>
+									The entire fleet was upgraded and the average taxicab age decreased dramatically.  And rather than rates going up, Laclede Cab immediately took their rates down.</li> <br><br>
+									
+									<li>Currently, Laclede Cab’s business office is located at 600 South Vandeventer.  We’ve earned our business through top of the line equipment, prompt courteous service and fair pricing. <br>
+									And our improvements didn’t stop in 1996.  In 2009 we upgraded the Call Center in our Dispatch Department, computerizing the process but keeping our live, friendly order takers. <br>
+									And in 2010 we installed the newest, most sophisticated GPS Dispatching system in the St. Louis metropolitan area. <br>
+									Pickups today are faster than ever before, our fleet is even larger, yet our pricing remains low and remains fair.</li> <br><br>
+									
+									<li>We’d like to thank you for stopping by to check us out. 
+									Put us in your cell phone and give us a call next time you need cab service.  
+									At Laclede Cab, we know we need you – and we’re anxious to earn your business!</li>
+								</ul>
+					
+							
+						</div>
+					</div>
+		
+		<div class="footer">
+			
+				<div class="inner_footer">
+					<div class="footer_logo">
+						<img src="images/crnilogo.jfif" alt="Logo">
+					</div>
+					
+					<div class="footer_second">
+						 <h1> Need help? </h1>
+						 <a href="Privacy Policy.html"> Privacy policy </a> <br>
+						 <a href="About Student.html"> Privacy policy </a> <br>
+						
+					</div>
+							<div class="footer_second">
+								<h1> Follow us </h1>
+								
+								<li><a href="https://www.instagram.com/lacledecab/" target="_blank"> <i class="fab fa-instagram"> </i> </a> </li> 
+								<li><a href="https://twitter.com/lacledecab?lang=en" target="_blank"> <i class="fab fa-twitter"> </i> </a> </li>
+								<li><a href="https://www.facebook.com/LacledeCab" target="_blank"> <i class="fab fa-facebook"> </i> </a> </li>
+								 							
+							</div>
+							
+							<div class="footer_span">		
+							
+								<span>
+									Laclede Cab Company <br>
+									600 S. Vandeventer Ave. <br>
+									St. Louis, MO 63110 <br>
+								</span>  
+									
+							</div>
+						
+				</div>
+		</div>
+		
+	</div>
+	
+		
+
+	</body>
+</html>
